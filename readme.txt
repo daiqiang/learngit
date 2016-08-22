@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software
+我的git账号是996548266@qq.com
